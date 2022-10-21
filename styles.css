@@ -1,3 +1,11 @@
+html{
+    text-align:center;
+}
 p{
     color:red;
+}
+.animals-img{
+    border-radius: 150px;
+    width: 300px;
+
 }
