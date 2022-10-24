@@ -1,9 +1,8 @@
 html{
     text-align:center;
+    font-family: "Work Sans", sans-serif;
 }
-p{
-    color:red;
-}
+
 .animals-img{
     border-radius: 150px;
     width: 300px;
