@@ -1,10 +1,19 @@
 html{
     text-align:center;
+    
+}
+h1,h2{
     font-family: "Work Sans", sans-serif;
 }
-
 .animals-img{
     border-radius: 150px;
     width: 300px;
 
+}
+ul li span,
+p span{
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
 }
