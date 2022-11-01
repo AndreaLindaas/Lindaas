@@ -1,13 +1,16 @@
 html{
     text-align:center;
     
+    
 }
+
 h1,h2{
     font-family: "Work Sans", sans-serif;
 }
-.animals-img{
-    border-radius: 150px;
+.andrea-img{
     width: 300px;
+    border-radius: 50%;
+    
 
 }
 ul li span,
@@ -16,4 +19,8 @@ p span{
 }
 li{
     list-style-type: none;
+}
+p{
+    margin-left:25%; 
+    max-width: 50%;
 }
